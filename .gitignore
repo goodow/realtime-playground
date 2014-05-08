@@ -51,5 +51,9 @@ Network Trash Folder
 Temporary Items
 .apdisk
 
-
 bower_components/
+
+# Logs
+logs
+*.log
+node_modules
