@@ -1,0 +1,15 @@
+# id: test/playground
+--- # String
+demo_string: 'Edit Me!'
+
+--- # List
+demo_list: ['Cat', 'Dog', 'Sheep', 'Chicken']
+demo_cursors:
+
+--- # Map
+demo_map:
+  "Key 1": "Value 1"
+  "Key 2": "Value 2"
+  "Key 3": "Value 3"
+  "Key 4": "Value 4"
+...
